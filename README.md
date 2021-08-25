@@ -1,5 +1,5 @@
 
-# Unusual Beliefs
+# Unusual Beliefs (Draft)
 
 belief is another word for mental model, and one mental model is better than another if it’s more useful and accurate in explaining and predicting.
 
