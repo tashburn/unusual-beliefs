@@ -9,6 +9,8 @@ guidelines: reference both evidence for and against each idea, etc.
 
 good evidence minimizes bad/biased arguments, such as these… there is a hierarchy of evidence.
 
+If you want to see the world as clearly as possible, you need to ciltivate an attitude of being independent minded… look at original evidence… don’t use social proof, don’t fall for bad arguments, add accurate confidence levels to each of your beliefs, have a constructive detachment… keep your identity small….
+
 - diet: meat, fat, vegetable oils, etc.
 - free will is a constructive illusion
 - empathy is sadistic
