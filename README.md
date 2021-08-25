@@ -1,5 +1,14 @@
 
 # Unusual Beliefs
+
+belief is another word for mental model, and one mental model is better than another if it’s more useful and accurate in explaining and predicting.
+
+beliefs should be driven by evidence (instead of values or ideology or peers or incentives).
+
+guidelines: reference both evidence for and against each idea, etc.
+
+good evidence minimizes bad/biased arguments, such as these… there is a hierarchy of evidence.
+
 - diet: meat, fat, vegetable oils, etc.
 - free will is a constructive illusion
 - empathy is sadistic
