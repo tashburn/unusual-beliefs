@@ -5,7 +5,7 @@
 
 # Diet
 - Best macronutrient ratio: high fat, medium protein, low carb
-- Avoid: alcohol, fructose
+- Avoid: alcohol, fructose, vegetable oils
 - Salt is good and doesn't raise BP unless you have high insulin (e.g. from a carby diet)
 
 
