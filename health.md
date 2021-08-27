@@ -23,7 +23,7 @@
   - at 72 hours, stem cells kick in
   - at __ hours, dopamine reset
   - at 72 hours, autophagy peaks
-- Break fast with fat (which kills hunger and keeps body in autophagy) and keep protein under 20g for the next day
+- Break fast with fat (which kills hunger and keeps body in autophagy) and keep protein under 20g for next 24h
 - Autophagy hacks: red light therapy, hyperbaric oxygen
 - References
   - https://youtu.be/5UgLueOeuWk
