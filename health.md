@@ -14,20 +14,32 @@
 
 
 # Fasting
-- Benefits: weight loss, autophagy, insulin control
+- Benefits: weight loss, autophagy, insulin control, tune gut microbiome, control cravings, repair gut, dopamine reset
 - A daily time-restricted window is good! The tighter the window the better. Ideally, early in the day.
 - Consume water and electrolytes (sodium, potassium, magnesium)
 - Timeline
   - at 13 hours, growth hormone begins to be released
   - at 17, autophagy starts
   - at 72 hours, stem cells kick in
-  - at __ hours, dopamine reset
+  - at 36 hours, start to burn significant fat
+  - at 48 hours, dopamine reset
   - at 72 hours, autophagy peaks
+  - at 72 hours, get meaningful fat loss
+  - 
 - Break fast with fat (which kills hunger and keeps body in autophagy) and keep protein under 20g for next 24h
-- Autophagy hacks: red light therapy, hyperbaric oxygen
+- Variations: push the length, vary the length
+- Hacks: 
+  - spoon of fat to turn off hunger
+  - bone broth
+  - for autophagy: red light therapy, hyperbaric oxygen
+  - Gerolsteiner (mineral water)
+  - Fastonic to reduce detox symptoms
+  - LMNT minerals
 - References
   - https://youtu.be/5UgLueOeuWk
   - https://youtu.be/cJAnD98dsVE
+  - https://youtu.be/VvMbz66-LlI
+  - https://youtu.be/Pnzp0B-65HM
 
 
 # Sleep
