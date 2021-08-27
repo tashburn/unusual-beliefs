@@ -14,6 +14,7 @@
 
 
 # Fasting
+- Benefits: weight loss, autophagy, insulin control
 - A daily time-restricted window is good! The tighter the window the better. Ideally, early in the day.
 - Consume water and electrolytes (sodium, potassium, magnesium)
 - Timeline
