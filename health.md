@@ -31,8 +31,8 @@
 
 # Sleep
 - 2 hours after sun down, get up with the sun
-- Dark room
 - Consistent schedule
+- Dark room
 - Warm-down routine
 - Red light only 2 hours before bed (no unfiltered screens!)
 - Only use bed for sleep and sex
@@ -40,8 +40,9 @@
 
 
 # Exercise
+- Every day, even if it's just a walk/hike
 - HIIT 15-20 minutes (go all out for 30s, rest for 90s)
-- Tabatas training
+- Get both cardio and resistance
 
 
 # Longevity
