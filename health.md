@@ -4,12 +4,30 @@
 
 
 # Diet
-- Best macronutrient ratio: high fat, medium protein, low carb
+- Best macronutrient ratio: high fat, medium protein, low carb (be a "Lipovore")
 - Avoid: alcohol, fructose, vegetable oils
 - Salt is good and doesn't raise BP unless you have high insulin (e.g. from a carby diet)
+- A good diet is modest in calories, low glycemic index, nutrient-dense, unprocessed, and eaten in time window of 8 hours of less (with the rest of the day a water fast).
+- Get fat mostly from olive oil, fatty animal/seafood protein, avocados, and coconut oil.
+- Get protein mostly from animal/seafood
+- Get cards from nutrient-dense low-calorie veggies like lettuces, cruciferous vegetables, and avocados.
+- If you need a treat, do a little of berries or cheese, occasionally.
+- Benefits of keto:
+  - better mental clarity
+  - stabler moods
+  - consistent, endless energy
+  - better physical endurance
+  - get sick less often
+  - lower cancer risk
+  - longer lifespan
+  - longer healthspan
+  - no hanger,
+  - autophagy
+- Do Intermittant Fasting or Time-Restricted Feeding (see Fasting)
 
 
 # Supplements
+- Most don't work, some do damage, some contain wrong amounts or unlabeled ingredients.
 - Common deficiencies: Vitamin D (especially in winter), Magnesium, Potassium, Zinc
 
 
@@ -19,13 +37,12 @@
 - Consume water and electrolytes (sodium, potassium, magnesium)
 - Timeline
   - at 13 hours, growth hormone begins to be released
-  - at 17, autophagy starts
+  - at 17 hours, autophagy starts
   - at 72 hours, stem cells kick in
   - at 36 hours, start to burn significant fat
   - at 48 hours, dopamine reset
   - at 72 hours, autophagy peaks
   - at 72 hours, get meaningful fat loss
-  - 
 - Break fast with fat (which kills hunger and keeps body in autophagy) and keep protein under 20g for next 24h
 - Variations: push the length, vary the length
 - Hacks: 
@@ -43,19 +60,34 @@
 
 
 # Sleep
-- 2 hours after sun down, get up with the sun
-- Consistent schedule
-- Dark room
-- Warm-down routine
-- Red light only 2 hours before bed (no unfiltered screens!)
-- Only use bed for sleep and sex
-- Equipment: chilipad
+- Go to sleep 2 hours after sun down, wake up with the sun
+- Have a consistent schedule, even on weekends.
+- Haev a consistent warm-down-for-bed routine.
+- Make the room pitch black dark.
+- Make the room 65 degrees.
+- Have red light only for the 2 hours before bed (no unfiltered screens!).
+- Only use bed for sleep and sex.
+- Avoid caffeine, even in the morning. While the half-life is 5 hours, the quarter-life is 12 hours.
+- Avoid alcohol in the evening because it disrupts sleep, circadian rhythm, and HGH (wastes workouts!).
+- Don't eat within 3 hours of bed.
+- Equipment: eye mask, chilipad.
 
 
 # Exercise
-- Every day, even if it's just a walk/hike
-- HIIT 15-20 minutes (go all out for 30s, rest for 90s)
-- Get both cardio and resistance
+- Exercise every day, in some way, even if it's just a walk/hike.
+- If you miss a day, it's not a big deal. Life will happen.
+- HIIT 15-20 minutes (go all out for 30s, rest for 90s).
+- Get both cardio and resistance.
+- Resistance training:
+  - Should work all the major muscle groups.
+  - 70% of your max-load seems to be optimal for building muscle.
+  - Reps to failure, or 80% of failure.
+- It's 10x easier to stay lean from diet than from exercise.
+- It's more time-efficient to do easy/hard efforts, rather than medium efforts.
+- Stay psychologically motivated:
+  - pick workouts i like.
+  - get enough variety.
+  - adjust duration, intensity, and frequency to tolerance.
 
 
 # Longevity
