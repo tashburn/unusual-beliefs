@@ -63,8 +63,8 @@
   - BIND activated charcoal for detox symptoms
   - cytosetox for neuro detox symptoms like headache, agitation, trouble sleeping, metal taste
   - exogenous ketones
-  - LMNT minerals
-  - MIN
+  - LMNT for electrolytes
+  - MIN for electrolytes
 - References
   - https://youtu.be/5UgLueOeuWk
   - https://youtu.be/cJAnD98dsVE
