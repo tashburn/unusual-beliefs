@@ -24,4 +24,6 @@ If you want to see the world as clearly as possible, you need to ciltivate an at
 - the verb “is” is insidious… structures our ideas of the world as if our perceptions are correct.
 - here is no such thing as objective truth, only common subjectivity.
 - people feel good going from SAD to vegetarian or vegan because they are no longer eating bad stuff, not because they are taking care of all their nutrition. many eventually have nutrient deficiencies.
-
+- most disagreements are about the definitions of words.
+- controversies and difficult decisions are contests of good values. What's the best balance?
+- everyone should be a political independent.
