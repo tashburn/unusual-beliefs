@@ -14,7 +14,7 @@ If you want to see the world as clearly as possible, you need to ciltivate an at
 - diet: meat, fat, vegetable oils, etc.
   - saturated/monounsaturated fat (animals, olive oil, coconut oil) is best for longevity: https://academic.oup.com/biomedgerontology/article/70/10/1181/2605464
 - free will is a constructive illusion
-- empathy is sadistic
+- empathy can be sadistic
 - hierarchies based on competence and consent are usually good, based on coercion or deception are usually bad.
 - ideology is bad, empiricism is good. Judge policies by judging their outcomes, instead of judging the values embodied in the policy, or your predictions of the outcomes. begin a policy this way, but re-judge when outcomes are available.
 - good values don’t ensure good outcomes, and can always be twisted be interpreted in a way that justifies the interests of the rationalizer.
@@ -26,4 +26,4 @@ If you want to see the world as clearly as possible, you need to ciltivate an at
 - people feel good going from SAD to vegetarian or vegan because they are no longer eating bad stuff, not because they are taking care of all their nutrition. many eventually have nutrient deficiencies.
 - most disagreements are about the definitions of words.
 - controversies and difficult decisions are contests of good values. What's the best balance?
-- everyone should be a political independent.
+- everyone should be a political independent. keep your identity small.
