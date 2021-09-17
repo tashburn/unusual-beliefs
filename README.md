@@ -31,3 +31,27 @@ If you want to see the world as clearly as possible, you need to ciltivate an at
 - for each value you have, it's good to know when it's too much, where it crosses the line. any virtue taken to an extreme becomes a vice.
 - for each belief you have, it's good to acknowledge what evidence it's based on, and what evidence would change your mind.
 - a good way to deal with paranoid conspiracy theorists is to ask them what evidence their belief is based on. when it's clear that their evidence is weak, or it's based on social proof, leverage their paranoia: "Your beliefs aren't based on good evidence. That makes you easy to manipulate."
+
+
+
+Ask HN: What are your unusual beliefs?
+
+Here are some of mine:
+
+- a sin of omission is just as unethical as the equivalent sin of commission.
+
+- compassion is better than empathy, where empathy is "feeling another's feelings" and compassion is "understanding another's feelings without feeling them."
+
+- taking things for granted has its benefits. it's impossible to appreciate everything all the time because your attention has limited capacity. chose wisely what and when to appreciate.
+
+- free will is a constructive illusion
+
+- most disagreements are really about the definitions of words
+
+- "Every virtue carried to the extreme, is a vice" - Aristotle
+
+- controversies and difficult decisions are contests of values. in the absence of a creative solution, try identifying the values and balancing them.
+
+- if correlation doesn't imply causation, what does? all we really have is correlation. we infer confidence in causation when correaltions are consistent and proximal, and when rival correlations are less plausible. this is similar to the philosophical argument that in science, we can't technically prove anything, we can only fail to disprove.
+
+- anything whose presence is required for an outcome is rightfully one of the "causes".
