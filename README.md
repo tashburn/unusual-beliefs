@@ -52,6 +52,6 @@ Here are some of mine:
 
 - controversies and difficult decisions are contests of values. in the absence of a creative solution, try identifying the values and balancing them.
 
-- if correlation doesn't imply causation, what does? all we really have is correlation. we infer confidence in causation when correaltions are consistent and proximal, and when rival correlations are less plausible. this is similar to the philosophical argument that in science, we can't technically prove anything, we can only fail to disprove.
+- if "correlation doesn't imply causation", what does? all we really have is correlation. we infer causation when correaltions are consistent, proximal in space and time, and when rival causations seem less plausible. but it's merely an inference with some level of confidence. this is similar to the philosophical science argument that we can't technically prove anything, we can only fail to disprove.
 
 - anything whose presence is required for an outcome is rightfully one of the "causes".
