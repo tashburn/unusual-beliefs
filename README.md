@@ -27,3 +27,7 @@ If you want to see the world as clearly as possible, you need to ciltivate an at
 - most disagreements are about the definitions of words.
 - controversies and difficult decisions are contests of good values. What's the best balance?
 - everyone should be a political independent. keep your identity small.
+
+- for each value you have, it's good to know when it's too much, where it crosses the line. any virtue taken to an extreme becomes a vice.
+- for each belief you have, it's good to acknowledge what evidence it's based on, and what evidence would change your mind.
+- a good way to deal with paranoid conspiracy theorists is to ask them what evidence their belief is based on. when it's clear that their evidence is weak, or it's based on social proof, leverage their paranoia: "Your beliefs aren't based on good evidence. That makes you easy to manipulate."
