@@ -26,7 +26,8 @@
   - no hanger,
   - autophagy
 - Do Intermittant Fasting or Time-Restricted Feeding (see Fasting)
-- 
+- Avoid emuksifiers like soy lecithin in processed foods. It erodes mucosal lining and blunts satiety hormones, leading to over eating.
+- Online meats: https://belcampo.com/
 
 
 # Supplements
