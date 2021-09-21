@@ -44,7 +44,7 @@ Here are some of mine:
 
 - taking things for granted has its benefits. it's impossible to appreciate everything all the time because your attention has limited capacity. chose wisely what and when to appreciate.
 
-- free will is a constructive illusion
+- free will is a constructive and inescapable illusion
 
 - most disagreements are really about the definitions of words
 
