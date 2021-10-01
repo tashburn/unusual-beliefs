@@ -55,3 +55,6 @@ Here are some of mine:
 - correlation *does* imply causation. if "correlation doesn't imply causation", then what does? all we really have is correlation. we infer causation when correaltions are consistent, proximal in space and time, and when rival causations seem less plausible. but it's merely an inference with some level of confidence. this is similar to the philosophical science argument that we can't technically prove anything, we can only fail to disprove.
 
 - anything whose presence is required for an outcome is rightfully one of its "causes".
+
+- some double standards are good, like love languages
+
